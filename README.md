@@ -1,4 +1,5 @@
-# CCC-2022
-Answers to the 2022 CCC
+# CCC
 
--Mohammad Pasha Khoshkebari
+The problems on the CCC contest I have worked on. I will use this repository as a place to document my work and add ways of improving it. 
+
+
