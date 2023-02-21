@@ -1,24 +1,5 @@
 # CCC
 
-The problems on the CCC contest I have worked on. I will use this repository as a place to document my work (and add ways of improving it). 
+A list of unofficial answers to the Canadian Computing Contest.
 
-
-Junior 2022 & 2023 Solved.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Solved by Mohammad Pasha Khoshkebari.
