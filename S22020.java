@@ -29,8 +29,6 @@ public class S22020 {
 		
 		
 		System.out.println(dfs(0,0) ? "yes" : "no");
-		
-		
 
 	}
 	
