@@ -1,4 +1,4 @@
-package OFFICIAL_2023;
+// package OFFICIAL_2023;
 import java.util.Scanner;
 
 public class J4_S1_2023 {
